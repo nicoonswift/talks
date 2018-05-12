@@ -1,4 +1,14 @@
 # Talks
+A list of topics I speak about on different events, including posts, videos, slides etc.
+
+---
+
+I'm currently working at [@velco](https://twitter.com/velcoBike) as an iOS developer, focusing on the development for solutions for IoT and Smart Cities.
+
+I also work as an independent contractor and consultant, contact me via [email](mailto:nigarcia88@gmail.com).
+
+For iOS and general software development I share on Twitter as [@NicoonGuitar](https://twitter.com/NicoonGuitar).
+
 
 ## 2018
 
