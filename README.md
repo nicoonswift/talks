@@ -1,4 +1,3 @@
-# Talks
 A list of topics I speak about on different events, including posts, videos, slides etc.
 
 ---
@@ -10,9 +9,9 @@ I also work as an independent contractor and consultant, contact me via [email](
 For iOS and general software development I share on Twitter as [@NicoonGuitar](https://twitter.com/NicoonGuitar).
 
 
-## 2018
+# 2018
 ---
-### UI Testing: Dealing with Push Notifications
+## UI Testing: Dealing with Push Notifications
 
 [Slides](https://speakerdeck.com/nicoonguitar/ui-testing-dealing-with-push-notifications) | [Video](https://www.youtube.com/watch?v=B3APP0jslK8) | [Demo project](https://github.com/nigarcia88/TestingPushNotifications) |
 --- | --- | --- |
@@ -27,7 +26,7 @@ Santiago, Chile, 27 March 2018
 Nantes, France, 15 February 2018
 
 ---
-### Working abroad
+## Working abroad
 
 [Slides](https://speakerdeck.com/nicoonguitar/working-abroad) |
 --- |
