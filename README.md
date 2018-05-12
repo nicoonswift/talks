@@ -13,7 +13,7 @@ For iOS and general software development I share on Twitter as [@NicoonGuitar](h
 ---
 ## UI Testing: Dealing with Push Notifications
 
-[Slides](https://speakerdeck.com/nicoonguitar/ui-testing-dealing-with-push-notifications) | [Video](https://www.youtube.com/watch?v=B3APP0jslK8) | [Demo project](https://github.com/nigarcia88/TestingPushNotifications) |
+[Slides](https://speakerdeck.com/nicoonguitar/ui-testing-dealing-with-push-notifications) | [Video (ES) ](https://www.youtube.com/watch?v=B3APP0jslK8) | [Demo project](https://github.com/nigarcia88/TestingPushNotifications) |
 --- | --- | --- |
 
 **Presented at:**
