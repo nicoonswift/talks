@@ -13,6 +13,7 @@ For iOS and general software development I share on Twitter as [@NicoonGuitar](h
 Event | Date | Location | Topic |
 --- | --- | --- | --- |
 [9punto5](http://www.9punto5.cl/) | 7-8 Sept 2018 | Valdivia, Chile | _Seul sur Mars_ |
+Recruitment Fair, ESEO engineering school | 15 Nov 2018 | Angers, France | To define... |
 
 # 2018
 ---
