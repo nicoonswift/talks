@@ -23,8 +23,8 @@ Event | Date | Location | Topic |
 
 **Presented at:**
 
-* [9punto5](http://www.9punto5.cl/)<br/>
-  7 Sept 2018 | Valdivia, Chile
+- [9punto5](http://www.9punto5.cl/)<br/>
+  7 Sep 2018 | Valdivia, Chile
 
 ---
 ## UI Testing: Dealing with Push Notifications
@@ -36,10 +36,10 @@ Event | Date | Location | Topic |
 
 - [iOSLove Santiago](https://www.meetup.com/iOSLove/events/248934917/)<br/>
 [Tweet](https://twitter.com/NicoonGuitar/status/979012757751238656)<br/>
-Santiago, Chile, 27 March 2018
+27 Mar 2018 | Santiago, Chile
 - [CocoaHeads Nantes](https://www.meetup.com/CocoaHeads-Nantes/events/247306003/)<br/>
 [Tweet](https://twitter.com/cocoanantes/status/964207349765427200)<br/>
-Nantes, France, 15 February 2018
+15 Feb 2018 | Nantes, France
 
 ---
 ## Working abroad
@@ -51,7 +51,7 @@ Nantes, France, 15 February 2018
 
 - [Escuela Ingeniería Informática PUCV](http://www.inf.ucv.cl/)<br/>
 [Tweet](https://twitter.com/R1melDidier/status/978637013808279552)<br/>
-Santiago, Chile, 27 March 2018
+27 Mar 2018 | Santiago, Chile
 
 ---
 
