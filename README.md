@@ -12,7 +12,6 @@ For iOS and general software development I share on Twitter as [@NicoonGuitar](h
 
 Event | Date | Location | Topic |
 --- | --- | --- | --- |
-[ESEO engineering school](https://eseo.fr) | 15 Nov 2018 | Angers, France | To define... |
 
 # 2018
 ---
