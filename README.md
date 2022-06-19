@@ -2,7 +2,7 @@ A list of topics I speak about on different events, including posts, videos, sli
 
 ---
 
-I'm currently working at [@velco](https://twitter.com/velcoBike) as an iOS developer, focusing on the development for solutions for IoT and Smart Cities.
+I'm currently working at [Speach]([https://twitter.com/velcoBike](https://speach.me)) as a Lead Mobile Software Engineer.
 
 I also work as an independent contractor and consultant, contact me via [email](mailto:nigarcia88@gmail.com).
 
