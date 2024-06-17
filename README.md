@@ -13,6 +13,19 @@ For iOS and general software development I share on Twitter as [@NicoonGuitar](h
 Event | Date | Location | Topic |
 --- | --- | --- | --- |
 
+# 2024
+---
+## Let's import a new Testing approach in Swift
+
+[Slides](https://speakerdeck.com/nicoonguitar/lets-import-a-new-testing-approach-in-swift)
+--- |
+
+**Presented at:**
+
+- [CocoaHeads Nantes](https://www.meetup.com/fr-FR/cocoaheads-nantes/events/301037523/)<br/>
+[Tweet](https://x.com/cocoanantes/status/1799121904617365676)<br/>
+6 Jun 2024 | Nantes, France
+
 # 2018
 ---
 ## Seul sur Mars
