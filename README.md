@@ -17,8 +17,8 @@ Event | Date | Location | Topic |
 ---
 ## Let's import a new Testing approach in Swift
 
-[Slides](https://speakerdeck.com/nicoonguitar/lets-import-a-new-testing-approach-in-swift)
---- |
+[Slides](https://speakerdeck.com/nicoonguitar/lets-import-a-new-testing-approach-in-swift) | [Video (EN) ](https://youtu.be/DJvpkNbj-q0?si=WS1KDfZY6YGF8eY1) |
+--- | --- |
 
 **Presented at:**
 
