@@ -12,6 +12,22 @@ For iOS and general software development I share on Twitter as [@NicoonGuitar](h
 
 Event | Date | Location | Topic |
 --- | --- | --- | --- |
+[Mobilis in Mobile](https://mobilis-in-mobile.io) | 17/06/2025 | Nantes, FR | iOS, Swift and low-level concurrency |
+
+
+
+# 2025
+---
+## Mutex, Atomics & Beyond
+
+[Slides](https://speakerdeck.com/nicoonguitar/mutex-atomics-and-beyond) | [Video (EN) ](https://www.youtube.com/watch?v=JNAcY_v3Z_4) |
+--- | --- |
+
+**Presented at:**
+
+- [CocoaHeads Nantes](https://www.meetup.com/cocoaheads-nantes/events/307301371/)<br/>
+[Tweet](https://x.com/cocoanantes/status/1915676285436674395)<br/>
+24 Apr 2025 | Nantes, France
 
 # 2024
 ---
@@ -23,7 +39,7 @@ Event | Date | Location | Topic |
 **Presented at:**
 
 - [CocoaHeads Nantes](https://www.meetup.com/fr-FR/cocoaheads-nantes/events/301037523/)<br/>
-[Tweet](https://x.com/cocoanantes/status/1799121904617365676)<br/>
+[Tweet](https://x.com/cocoanantes/status/1799121904617365676)<br/> 
 6 Jun 2024 | Nantes, France
 
 # 2018
@@ -36,7 +52,7 @@ Event | Date | Location | Topic |
 **Presented at:**
 
 - [9punto5](http://www.9punto5.cl/)<br/>
-  7 Sep 2018 | Valdivia, Chile
+7 Sep 2018 | Valdivia, Chile
 
 ---
 ## UI Testing: Dealing with Push Notifications
