@@ -12,7 +12,7 @@ For iOS and general software development I share on Twitter as [@NicoonGuitar](h
 
 Event | Date | Location | Topic |
 --- | --- | --- | --- |
-[Mobilis in Mobile](https://mobilis-in-mobile.io) | 17/06/2025 | Nantes, FR | iOS, Swift and low-level concurrency |
+[Mobilis in Mobile](https://mobilis-in-mobile.io) | 17/06/2025 | Nantes, FR | Mutex, Atomics & Beyond |
 
 
 
