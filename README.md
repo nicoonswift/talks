@@ -12,11 +12,21 @@ For iOS and general software development I share on Twitter as [@NicoonGuitar](h
 
 Event | Date | Location | Topic |
 --- | --- | --- | --- |
-[Mobilis in Mobile](https://mobilis-in-mobile.io) | 17/06/2025 | Nantes, FR | Mutex, Atomics & Beyond |
-
-
+ | | | |
 
 # 2025
+---
+## Mutex, Atomics & Beyond
+
+[Slides](https://speakerdeck.com/nicoonguitar/mutex-atomics-and-beyond) | Video to come |
+--- | --- |
+
+**Presented at:**
+
+- [Mobilis in Mobile](https://mobilis-in-mobile.io)<br/>
+17 Jun 2025 | Nantes, France
+
+
 ---
 ## Mutex, Atomics & Beyond
 
