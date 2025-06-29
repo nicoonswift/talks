@@ -2,12 +2,6 @@ A list of topics I speak about on different events, including posts, videos, sli
 
 ---
 
-I'm currently working at [Speach]([https://twitter.com/velcoBike](https://speach.me)) as a Lead Mobile Software Engineer.
-
-I also work as an independent contractor and consultant, contact me via [email](mailto:nigarcia88@gmail.com).
-
-For iOS and general software development I share on Twitter as [@NicoonGuitar](https://twitter.com/NicoonGuitar).
-
 # Coming soon
 
 Event | Date | Location | Topic |
