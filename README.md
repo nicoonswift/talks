@@ -12,23 +12,13 @@ Event | Date | Location | Topic |
 ---
 ## Mutex, Atomics & Beyond
 
-[Slides](https://speakerdeck.com/nicoonguitar/mutex-atomics-and-beyond) | Video to come |
+[Slides](https://speakerdeck.com/nicoonguitar/mutex-atomics-and-beyond) | [Video CocoaHeads Nantes (EN) ](https://www.youtube.com/watch?v=JNAcY_v3Z_4) |
 --- | --- |
 
 **Presented at:**
 
 - [Mobilis in Mobile](https://mobilis-in-mobile.io)<br/>
 17 Jun 2025 | Nantes, France
-
-
----
-## Mutex, Atomics & Beyond
-
-[Slides](https://speakerdeck.com/nicoonguitar/mutex-atomics-and-beyond) | [Video (EN) ](https://www.youtube.com/watch?v=JNAcY_v3Z_4) |
---- | --- |
-
-**Presented at:**
-
 - [CocoaHeads Nantes](https://www.meetup.com/cocoaheads-nantes/events/307301371/)<br/>
 [Tweet](https://x.com/cocoanantes/status/1915676285436674395)<br/>
 24 Apr 2025 | Nantes, France
